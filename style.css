@@ -1,0 +1,17 @@
+#title {
+    background-color: rgb(156, 172, 187);
+    text-align: center;
+    color: rgb(146, 112, 68);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lists .one {
+    background-color: rgb(120, 165, 113);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(149, 167, 167);
+}
