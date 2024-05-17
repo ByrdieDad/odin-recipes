@@ -1,10 +1,10 @@
-body {
-    background-color: rgb(141, 141, 195);
-}
-
 .header {
     background-color: rgb(184, 93, 93);
     text-align: center;
+}
+
+body {
+    background-color: rgb(141, 141, 195);
 }
 
 ol {
@@ -19,15 +19,20 @@ ul {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.para .parag {
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
 img {
     height: 300px;
     width: auto;
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.para .paragraph {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(184, 93, 93);
 }
